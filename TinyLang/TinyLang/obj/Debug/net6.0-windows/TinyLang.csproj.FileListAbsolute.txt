@@ -1,0 +1,17 @@
+C:\Users\engsh\Desktop\TinyLang\TinyLang\TinyLang\obj\Debug\net6.0-windows\TinyLang.csproj.AssemblyReference.cache
+C:\Users\engsh\Desktop\TinyLang\TinyLang\TinyLang\obj\Debug\net6.0-windows\TinyLang.Form1.resources
+C:\Users\engsh\Desktop\TinyLang\TinyLang\TinyLang\obj\Debug\net6.0-windows\TinyLang.csproj.GenerateResource.cache
+C:\Users\engsh\Desktop\TinyLang\TinyLang\TinyLang\obj\Debug\net6.0-windows\TinyLang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\engsh\Desktop\TinyLang\TinyLang\TinyLang\obj\Debug\net6.0-windows\TinyLang.AssemblyInfoInputs.cache
+C:\Users\engsh\Desktop\TinyLang\TinyLang\TinyLang\obj\Debug\net6.0-windows\TinyLang.AssemblyInfo.cs
+C:\Users\engsh\Desktop\TinyLang\TinyLang\TinyLang\obj\Debug\net6.0-windows\TinyLang.csproj.CoreCompileInputs.cache
+C:\Users\engsh\Desktop\TinyLang\TinyLang\TinyLang\bin\Debug\net6.0-windows\TinyLang.exe
+C:\Users\engsh\Desktop\TinyLang\TinyLang\TinyLang\bin\Debug\net6.0-windows\TinyLang.deps.json
+C:\Users\engsh\Desktop\TinyLang\TinyLang\TinyLang\bin\Debug\net6.0-windows\TinyLang.runtimeconfig.json
+C:\Users\engsh\Desktop\TinyLang\TinyLang\TinyLang\bin\Debug\net6.0-windows\TinyLang.dll
+C:\Users\engsh\Desktop\TinyLang\TinyLang\TinyLang\bin\Debug\net6.0-windows\TinyLang.pdb
+C:\Users\engsh\Desktop\TinyLang\TinyLang\TinyLang\obj\Debug\net6.0-windows\TinyLang.dll
+C:\Users\engsh\Desktop\TinyLang\TinyLang\TinyLang\obj\Debug\net6.0-windows\refint\TinyLang.dll
+C:\Users\engsh\Desktop\TinyLang\TinyLang\TinyLang\obj\Debug\net6.0-windows\TinyLang.pdb
+C:\Users\engsh\Desktop\TinyLang\TinyLang\TinyLang\obj\Debug\net6.0-windows\TinyLang.genruntimeconfig.cache
+C:\Users\engsh\Desktop\TinyLang\TinyLang\TinyLang\obj\Debug\net6.0-windows\ref\TinyLang.dll
